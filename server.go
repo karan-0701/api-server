@@ -51,3 +51,4 @@ func writeResponse(writer http.ResponseWriter, responseString string) {
 		fmt.Println(err)
 	}
 }
+Hello World
